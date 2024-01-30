@@ -113,6 +113,13 @@ salla-slider .slide--one-third {
     width: 28.666667%;
 }
 }
+
+
+    nav img {
+      animation: heartbeat 1s infinite; /* Adjust the duration as needed */
+    }
+
+
 @keyframes heartbeat {
       0% {
         transform: scale(1);
@@ -123,8 +130,4 @@ salla-slider .slide--one-third {
       100% {
         transform: scale(1);
       }
-    }
-
-    nav img {
-      animation: heartbeat 1s infinite; /* Adjust the duration as needed */
     }
