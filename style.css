@@ -45,7 +45,25 @@ salla-slider.photos-slider .swiper-slide {
 section:first-of-type.s-block.s-block--photos-slider {
     margin: 0px !important;
 }
-
+ul#icon-row-template--15798230778051__1646285504caabbea0 {
+    justify-content: space-around;
+}
+.raheeb-features-10 {
+    background-color: #ffffff;
+}
+.raheeb-features-10 .icon-title  {
+    color: #80c0ce;
+    font-size: larger;
+}
+.raheeb-features-10 .raheeb-title{
+    color: #80c0ce;
+ }
+ .store-footer {
+     border-radius: 20px;
+}
+nav img {
+    scale: 2;
+}
 /* categoryyy//////////////// */ 
 .grid.grid-cols-1.md\:grid-cols-3.lg\:grid-cols-3.one-row.grid-flow-row.gap-2{
     display: flex;
